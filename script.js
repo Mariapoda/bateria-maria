@@ -1,8 +1,7 @@
 const sons = {
     'A' : 'boom.wav',
     'S' : 'clap.wav',
-    'D' : 'hithat.wav',
-    'F' : 'hithat.wav',
+    'D' : 'hihat.wav',
     'G' : 'kick.wav',
     'H' : 'openhat.wav',
     'I' : 'ride.wav',
